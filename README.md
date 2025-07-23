@@ -1,87 +1,132 @@
-
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- Name:Lerato Mokaloba
+- Date:2025/07/22
+- Current Role/Position:Call Center Agent
+- Field of Interest:Frontend Software Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    -Current Skills & Areas of Expertise:
+      Basic HTML & CSS
+      Advanced CSS Concepts
+      Familiarity with Git & GitHub
+
+    -Skills to Develop or Improve:
+      Responsive design and accessibility
+      CSS frameworks (Tailwind CSS)
+      Grasping concepts 100% of areas we already went through
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Key Interests:
+       Designing and building interactive and user friendly websites
+       Creating websites that solve everyday problems
+       Learning new technologies and frameworks
+       Collaborating on tech projects
+
+    - Workplace Values:
+       Opportunities for career growth
+       Continuous learning and mentorship
+       Flexibility and creativity
+       A supportive enviroment
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Industries:
+       Tech/Software Development
+       Cyber Security
+       Cloud Engineering
+
+    - Roles Explored:
+       Frontend Developer
+       AWS CloudSec Network
+
+Roles that Piqued My Interest:
+  Junior Frontend Developer
+
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - Alignment:
+      Frontend development aligns with my interest in design and creative problem-solving.
+      The roles I’ve explored match my goal to transition from a non-tech background into a tech-based, growth-oriented field.
 
+    - Gaps/Areas for Further Exploration:
+      Improving communication around presenting my code/projects professionally
+      Gaining more experience with JavaScript logic and real-world projects
+      Learning React and how to connect front-end apps with APIs
+      
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+      Goal 1: Complete my current bootcamp with a strong portfolio along with all my projects
+      Why: To showcase practical frontend skills to future employers
+
+      Goal 2: Learn React and build a fully responsive website using it by January 2026
+      Why: From my research React is in high demand and is a required skill for most frontend roles
+
+      Goal 3: Apply to 5+ internships or junior developer roles between January–June 2026
+      Why: Real-world experience will help me grow faster and secure a permanent job
+
 2. **Long-term Goals** (3-5 years and beyond):
-    
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+
+      Goal 1: Secure a full-time role as a Frontend Developer by 2027
+      Goal 2: Contribute to big projects and build custom web apps
+      Goal 3: Possibly transition into a UX/UI design or full-stack role once I'm confident with the front end
+
+These goals align with my creativity, desire for growth, and interest in problem-solving through code.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
-    
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+     - Steps to Achieve Short-Term Goals:
+        Dedicate 6–8 hours a day for studying using a structured weekly plan
+        Complete the Scrimba React and Tailwind CSS courses
+        Build and host personal projects (e.g. Book Connect, Portfolio Site)
+        Attend career workshops and coaching sessions
+        Work on being active my LinkedIn account by actively post progress and projects on GitHub 
+
 2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+     -Preparation for Long-Term Goals:
+       Continue to learn to become one of the best devs in the industry
+       Learn Reacts as per my research shows high demand for it
+       Take on freelance or volunteer projects for real-world experience
+       Continue learning (intermediate to advanced)
+       Enroll in other courses to gain more knowledge as needed
+       Find a mentor or join a dev community for feedback and growth
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Anticipated Challenges:
+       Struggling to understand new technical concepts quickly
+       Balancing personal life,work and learning time
+       Imposter syndrome or fear of not being "good enough"
+
+    - Strategies to Overcome:
+       Follow a structured weekly routine with breaks
+       Reach out to peers, mentors, or coaches when stuck
+       Focus on progress over perfection
+       Keep a journal to track learning and wins
+
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Opportunities for Growth:
+       CodeSpace bootcamp coaching sessions and feedback
+       Try Free online courses to water the knowledge aquired
+       GitHub & LinkedIn to showcase my work
+       Meetups or communities like Frontend Mentor, CodeNewbie
+       Growing South African tech industry and junior dev demand.
 
-### Submission
 
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+
+
+ 
 
 
